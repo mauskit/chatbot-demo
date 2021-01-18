@@ -1,7 +1,6 @@
 import React from 'react';
 import { makeStyles, createStyles } from '@material-ui/core/styles';
 import Button from '@material-ui/core/Button';
-import { mergeClasses } from '@material-ui/styles';
 
 const useStyles = makeStyles(() => (
     createStyles({
